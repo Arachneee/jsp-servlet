@@ -1,0 +1,13 @@
+package test;
+
+import java.io.*;
+import java.util.Arrays;
+
+import javax.servlet.*;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.*;
+
+@WebServlet("/logProc")
+public class LogInOutServlet extends HttpServlet{
+
+}
