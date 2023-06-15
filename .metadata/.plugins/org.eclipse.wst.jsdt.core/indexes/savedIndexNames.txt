@@ -1,8 +1,0 @@
-INDEX VERSION 1.4+C:\Users\hogeon\eclipse-workspace\jsp-servlet\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-682057945.index
-1401833725.index
-1730186989.index
-2564550499.index
-2980771035.index
-3481095645.index
-2150938631.index

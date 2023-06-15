@@ -1,6 +1,0 @@
-1686736742616	Delete element
-1686739129723	Rename compilation unit 'ServletConfigTestServlet.java'
-1686745249948	Rename compilation unit 'ServletContextTestServlet.java'
-1686754551181	Move 'logInOut.html' to 'WebContent'
-1686756442742	Encapsulate field 'author'
-1686756449180	Encapsulate field 'publisher'
